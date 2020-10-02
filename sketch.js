@@ -7,7 +7,7 @@ var box1, pig1;
 var backgroundImage;
 
 function preload(){
-backgroundImage=loadImage("sprites/bg.png");
+backgroundImage=loadImage("bg.png");
 
 
 }
